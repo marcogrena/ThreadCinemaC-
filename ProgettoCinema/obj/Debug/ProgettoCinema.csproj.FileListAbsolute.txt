@@ -1,0 +1,11 @@
+C:\Users\grenam\Desktop\ProgettoCinema\ProgettoCinema\bin\Debug\ProgettoCinema.exe.config
+C:\Users\grenam\Desktop\ProgettoCinema\ProgettoCinema\bin\Debug\ProgettoCinema.exe
+C:\Users\grenam\Desktop\ProgettoCinema\ProgettoCinema\bin\Debug\ProgettoCinema.pdb
+C:\Users\grenam\Desktop\ProgettoCinema\ProgettoCinema\obj\Debug\ProgettoCinema.csproj.AssemblyReference.cache
+C:\Users\grenam\Desktop\ProgettoCinema\ProgettoCinema\obj\Debug\ProgettoCinema.csproj.SuggestedBindingRedirects.cache
+C:\Users\grenam\Desktop\ProgettoCinema\ProgettoCinema\obj\Debug\ProgettoCinema.Form1.resources
+C:\Users\grenam\Desktop\ProgettoCinema\ProgettoCinema\obj\Debug\ProgettoCinema.Properties.Resources.resources
+C:\Users\grenam\Desktop\ProgettoCinema\ProgettoCinema\obj\Debug\ProgettoCinema.csproj.GenerateResource.cache
+C:\Users\grenam\Desktop\ProgettoCinema\ProgettoCinema\obj\Debug\ProgettoCinema.csproj.CoreCompileInputs.cache
+C:\Users\grenam\Desktop\ProgettoCinema\ProgettoCinema\obj\Debug\ProgettoCinema.exe
+C:\Users\grenam\Desktop\ProgettoCinema\ProgettoCinema\obj\Debug\ProgettoCinema.pdb
